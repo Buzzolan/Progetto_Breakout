@@ -1,0 +1,24 @@
+﻿  2.game.cpp
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\2.game.cpp(333,36): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\2.game.cpp(352,73): warning C4244: 'argomento': conversione da 'unsigned int' a 'float'. Possibile perdita di dati.
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\2.game.cpp(363,85): warning C4244: 'argomento': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\2.game.cpp(364,80): warning C4244: 'argomento': conversione da 'unsigned int' a 'float'. Possibile perdita di dati.
+  2.program.cpp
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\2.program.cpp(73,28): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+  5.1.ball_object_collisions.cpp
+  game_level.cpp
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\game_level.cpp(59,42): warning C4267: 'inizializzazione': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\game_level.cpp(60,44): warning C4267: 'inizializzazione': conversione da 'size_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\game_level.cpp(61,76): warning C4244: 'inizializzazione': conversione da 'unsigned int' a 'float'. Possibile perdita di dati.
+  game_object.cpp
+  particle_generator.cpp
+  post_processor.cpp
+  resource_manager.cpp
+  sprite_renderer.cpp
+  shader.cpp
+  texture.cpp
+  text_renderer.cpp
+C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\First_Project_window\Breakout_game_project\text_renderer.cpp(90,33): warning C4838: la conversione da 'FT_Pos' a 'unsigned int' richiede una conversione che supporta un minor numero di dati
+  Generazione del codice in corso...
+  glad.c
+  First_Project_window.vcxproj -> C:\Users\tomma\Documents\cartella git progetti\Progetto_Breakout\x64\Debug\First_Project_window.exe
