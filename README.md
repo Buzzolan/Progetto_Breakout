@@ -1,2 +1,2 @@
 # Progetto_Breakout
-Progetto visual studio in OpenGL del famoso gioco Breakout
+Project with visual studio in OpenGL: Breakout games with OnePiece theme
